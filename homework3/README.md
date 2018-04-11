@@ -1,5 +1,5 @@
 # Brief Introduction
-Nowadays we increasingly rely on electronic equipments to read, study and work. 
+Nowadays people increasingly rely on electronic equipments to read, study and work. 
 
 People rarely read printing novel while sizzling online novel has been off to the races. 
 
