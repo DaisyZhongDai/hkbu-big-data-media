@@ -12,3 +12,5 @@ Starting page:https://www.qidian.com/all
     word count-String. e.g. 351.31万字 
 ## Data volume
     200rows（books）
+## License:
+   cc 4.0
